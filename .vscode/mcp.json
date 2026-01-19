@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "br-community": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "c:\\Users\\poulsena\\projects\\br-community-mcp",
+        "python",
+        "server.py"
+      ]
+    }
+  }
+}
