@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv sync --extra test
+          uv sync --extra test --extra dev
 
       - name: Check for security vulnerabilities
         run: |
