@@ -20,9 +20,10 @@ test = [
     "pytest-cov>=4.1.0",
     "ruff>=0.8.0",
     "mypy>=1.13.0",
+    "respx>=0.22.0",
 ]
 dev = [
-    "respx>=0.22.0",
+    
 ]
 
 [project.scripts]
