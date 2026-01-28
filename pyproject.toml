@@ -23,7 +23,9 @@ test = [
     "respx>=0.22.0",
 ]
 dev = [
-    
+    "bandit>=1.8.0",
+    "radon>=6.0.0",
+    "pre-commit>=4.0.0",
 ]
 
 [project.scripts]
