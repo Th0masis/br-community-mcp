@@ -16,7 +16,7 @@ We take security seriously. If you discover a security vulnerability in the B&R 
 
 Instead, please report them via one of the following methods:
 
-1. **GitHub Security Advisories**: Use the [Security Advisories](https://github.com/BRDK-GitHub/br-community-mcp/security/advisories) feature to privately report the vulnerability.
+1. **GitHub Security Advisories**: Use the [Security Advisories](https://github.com/BRDK-Public/br-community-mcp/security/advisories) feature to privately report the vulnerability.
 
 2. **Email**: Contact the maintainers directly at the email addresses listed in the [pyproject.toml](pyproject.toml) file.
 
@@ -45,7 +45,7 @@ When reporting a vulnerability, please include:
 3. **Pull from official registry** only:
 
    ```bash
-   ghcr.io/brdk-github/br-community-mcp:latest
+   ghcr.io/brdk-public/br-community-mcp:latest
    ```
 
 4. **Keep Docker updated** with latest security patches

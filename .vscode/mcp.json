@@ -26,7 +26,7 @@
       "command": "docker",
       "args": [
         "run", "--rm", "-i",
-        "ghcr.io/brdk-github/br-community-mcp:latest"
+        "ghcr.io/brdk-public/br-community-mcp:latest"
       ]
     }
   }

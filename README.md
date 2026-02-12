@@ -29,7 +29,7 @@ Add to `.vscode/mcp.json` in your workspace:
       "command": "docker",
       "args": [
         "run", "--rm", "-i",
-        "ghcr.io/brdk-github/br-community-mcp:latest"
+        "ghcr.io/brdk-public/br-community-mcp:latest"
       ]
     }
   }
@@ -143,7 +143,7 @@ Add one of these configurations to `.vscode/mcp.json` in your workspace:
       "command": "docker",
       "args": [
         "run", "--rm", "-i",
-        "ghcr.io/brdk-github/br-community-mcp:latest"
+        "ghcr.io/brdk-public/br-community-mcp:latest"
       ]
     }
   }

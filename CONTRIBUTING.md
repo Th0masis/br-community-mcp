@@ -31,7 +31,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participatin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/BRDK-GitHub/br-community-mcp.git
+   git clone https://github.com/BRDK-Public/br-community-mcp.git
    cd br-community-mcp
    ```
 
@@ -223,7 +223,7 @@ async def test_search_community_success():
 
 ## Reporting Issues
 
-Please use our [GitHub issue tracker](https://github.com/BRDK-GitHub/br-community-mcp/issues) to report bugs or request features. When you create a new issue, you will be prompted to choose from several templates that ensure all necessary information is provided.
+Please use our [GitHub issue tracker](https://github.com/BRDK-Public/br-community-mcp/issues) to report bugs or request features. When you create a new issue, you will be prompted to choose from several templates that ensure all necessary information is provided.
 
 ### Bug Reports
 
@@ -284,7 +284,7 @@ If you discover a security vulnerability, please follow our [Security Policy](SE
 
 If you have questions about contributing, feel free to:
 
-- Open a [Discussion](https://github.com/BRDK-GitHub/br-community-mcp/discussions)
+- Open a [Discussion](https://github.com/BRDK-Public/br-community-mcp/discussions)
 - Ask in the issue tracker with the `question` label
 - Check existing issues and discussions for similar questions
 
